@@ -1,6 +1,6 @@
-import imgPortraitYoungManToplessUseBambooFishingTrapCatchFishCookingAsianYoungFarmerManRuralLifestyle2 from '../img//portrait-young-man-topless-use-bamboo-fishing-trap-catch-fish-cooking-asian-young-farmer-man-rural-lifestyle.jpg';
-import imgShadow1 from '../img//shadow.png';
-import imgProblemSymbol1 from '../img//problem symbol.png';
+import imgPortraitYoungManToplessUseBambooFishingTrapCatchFishCookingAsianYoungFarmerManRuralLifestyle2 from '../img/portrait-young-man-topless-use-bamboo-fishing-trap-catch-fish-cooking-asian-young-farmer-man-rural-lifestyle.jpg';
+import imgShadow1 from '../img/shadow.png';
+import imgProblemSymbol1 from '../img/problem symbol.png';
 import imgOip1 from '../img/OIP 1.jpg';
 import img17677041361672 from "figma:asset/70c9b187e070f7094a61c01eb0017d0fb714f7b5.png";
 import imgProfilePutih2 from "figma:asset/6dbd23f77f0f761d94a22f53e479800681560ccf.png";
