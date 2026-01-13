@@ -1,4 +1,4 @@
-import imgPortraitYoungManToplessUseBambooFishingTrapCatchFishCookingAsianYoungFarmerManRuralLifestyle2 from "figma:asset/f415897b1575c49ac819de612aa0c3c63cf4258b.png";
+import imgPortraitYoungManToplessUseBambooFishingTrapCatchFishCookingAsianYoungFarmerManRuralLifestyle2 from ./img/ ;
 import imgShadow1 from "figma:asset/e2897032b69ee04769126c069deb42a70a6ea1e0.png";
 import imgProblemSymbol1 from "figma:asset/86451309850452dd7f7e525c57219adbce11c074.png";
 import imgOip1 from "figma:asset/ab006d05a31d65677c318389951840133003a462.png";
